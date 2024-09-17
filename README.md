@@ -1,6 +1,6 @@
-# Teachy-McTeachface
+# Teach me tutors
 
-**Change this heading to match your course name**
+Use tutors.dev.
 
 This repos describes how to use logseq to author tutors.dev courses.
 
